@@ -1,5 +1,5 @@
 function onCreate()
-    makeLuaSprite('MickeyBG','funkinAVI/episode1/street/Mickeybg',-1500,-500)
+    makeLuaSprite('MickeyBG','funkinAVI/episode1/street/MickeyBG',-1500,-500)
 
     makeAnimatedLuaSprite('MickeyScratch','funkinAVI/episode1/street/scratchShit')
     addAnimationByPrefix('MickeyScratch','Scratch','scratch thing',24,true)

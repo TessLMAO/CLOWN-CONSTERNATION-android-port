@@ -1,5 +1,5 @@
 function onCreate()
-    makeLuaSprite('MickeyBG','funkinAVI/episode1/street/Mickeybg',-570,-200)
+    makeLuaSprite('MickeyBG','funkinAVI/episode1/street/MickeyBG',-570,-200)
     scaleObject('MickeyBG', 1.25, 1.25)
     
     makeAnimatedLuaSprite('MickeyScratch','funkinAVI/episode1/street/scratchShit')
